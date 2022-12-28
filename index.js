@@ -63,4 +63,3 @@ var users = [
 ];
 
 /* console.log(users.find(users, function(o) { return o.age < 40; })); */
-_.countBy([6.1, 4.2, 6.3], Math.floor);
